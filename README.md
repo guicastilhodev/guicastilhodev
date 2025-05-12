@@ -1,8 +1,7 @@
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/> 
           
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Guilherme+Castilho;Back-end+Developer+Enthusiast;Currently+Learning+.NET+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I%C2%B4m+Guilherme+Castilho.+;Back+End+Developer+working+with+;Typescript+and+Node.js)](https://git.io/typing-svg)
 </div>
 
 ## 👨🏻‍💻 Stack:
